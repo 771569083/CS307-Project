@@ -1,0 +1,10 @@
+database.sqlite
+memory.pickle
+
+app/config/common.py
+data/*.csv
+data/info_head.json
+database/config.py
+
+.idea/
+__pycache__/

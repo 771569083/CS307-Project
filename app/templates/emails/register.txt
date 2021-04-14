@@ -1,0 +1,4 @@
+Hello {{ uid }},
+Thank you for registering the website!
+Enjoy exploring :)
+Visit this link to confirm: {{ url }}

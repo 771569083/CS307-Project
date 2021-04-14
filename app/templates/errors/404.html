@@ -1,0 +1,10 @@
+{% extends "base.html" %}
+
+{% from 'bootstrap/utils.html' import render_static %}
+
+
+{% block content %}
+    <div class="text-center">
+        <img src="{{ url_for('static', filename='error/404.png') }}" class="img-fluid" alt="Not Found" />
+    </div>
+{% endblock %}

@@ -1,0 +1,21 @@
+[[source]]
+url = "https://mirrors.aliyun.com/pypi/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+sqlalchemy = "*"
+tqdm = "*"
+faker = "*"
+psycopg2 = "*"
+flask = "*"
+flask-cors = "*"
+flask-wtf = "*"
+bootstrap-flask = "*"
+flask-mail = "*"
+flask-login = "*"
+wtforms = {extras = ["email"], version = "*"}
+uvicorn = "*"
+
+[requires]
+python_version = "3.8"
