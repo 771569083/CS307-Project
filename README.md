@@ -45,7 +45,7 @@
 
 + 整体数据库关系结构：
 
-![information_schema](image\information_schema.png)
+![information_schema](https://github.com/771569083/CS307-Project/blob/master/image/information_schema.png)
 
 
 
